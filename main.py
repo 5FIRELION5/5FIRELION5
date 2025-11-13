@@ -685,7 +685,46 @@ root.after(120, _fit_to_work_area)
 # Use a modern font for all widgets
 default_font = ("Segoe UI", 11)
 root.option_add("*Font", default_font)
-frame = ttk.Frame(root)
+# Create a scrollable container for the whole app content (helps on small screens)
+scroll_container = ttk.Frame(root)
+scroll_container.pack(fill='both', expand=True)
+
+scroll_canvas = tk.Canvas(scroll_container, borderwidth=0, highlightthickness=0)
+vscroll = ttk.Scrollbar(scroll_container, orient="vertical", command=scroll_canvas.yview)
+scroll_canvas.configure(yscrollcommand=vscroll.set)
+vscroll.pack(side="right", fill="y")
+scroll_canvas.pack(side="left", fill="both", expand=True)
+
+# Inner content frame that holds all actual widgets
+content = ttk.Frame(scroll_canvas)
+_content_win = scroll_canvas.create_window((0, 0), window=content, anchor="nw")
+
+def _on_content_configure(event):
+	try:
+		scroll_canvas.configure(scrollregion=scroll_canvas.bbox("all"))
+	except Exception:
+		pass
+content.bind("<Configure>", _on_content_configure)
+
+def _on_canvas_configure(event):
+	try:
+		# Make inner content width follow the canvas width
+		scroll_canvas.itemconfig(_content_win, width=event.width)
+	except Exception:
+		pass
+scroll_canvas.bind("<Configure>", _on_canvas_configure)
+
+def _on_mousewheel_canvas(event):
+	try:
+		delta = -1 * int(event.delta / 120)
+	except Exception:
+		delta = -1
+	scroll_canvas.yview_scroll(delta, 'units')
+	return 'break'
+# Bind globally so wheel scrolls the page when hovering anywhere (Windows)
+scroll_canvas.bind_all('<MouseWheel>', _on_mousewheel_canvas, add='+')
+
+frame = ttk.Frame(content)
 frame.pack(padx=12, pady=12)
 
 
@@ -726,11 +765,11 @@ format_var.trace_add("write", _on_selection_change)
 
 
 status = tk.StringVar(value="")
-ttk.Label(root, textvariable=status).pack(padx=8, pady=(0, 6))
+ttk.Label(content, textvariable=status).pack(padx=8, pady=(0, 6))
 
 # Chart area (optional)
 
-chart_frame = ttk.Frame(root)
+chart_frame = ttk.Frame(content)
 chart_frame.pack(padx=12, pady=(0, 12), fill='both', expand=True)
 
 # Create a matplotlib figure and canvas with two subplots (rating timeline + pie chart)
@@ -1305,7 +1344,7 @@ def update_pie_chart(profile):
 	except Exception: pass
 
 # Scrollable output area for statistics
-output_frame = tk.Frame(root)
+output_frame = tk.Frame(content)
 output_frame.pack(padx=12, pady=(0, 12), fill='both', expand=True)
 output_scroll = tk.Scrollbar(output_frame, orient='vertical')
 output_scroll.pack(side=tk.RIGHT, fill='y')
@@ -1313,18 +1352,18 @@ output = tk.Text(output_frame, width=110, height=18, wrap='word', yscrollcommand
 output.pack(side=tk.LEFT, fill='both', expand=True)
 output_scroll.config(command=output.yview)
 
-# Smooth mouse-wheel scrolling even when the text widget doesn't have focus
+# Smooth mouse-wheel scrolling for the stats Text (when hovered)
 def _bind_mousewheel(widget, target):
 	def _on_mousewheel(event):
 		try:
-			# On Windows, event.delta is multiples of 120
 			delta = -1 * int(event.delta/120)
 		except Exception:
 			delta = -1
 		target.yview_scroll(delta, 'units')
 		return 'break'
-	widget.bind_all('<MouseWheel>', _on_mousewheel, add='+')
-_bind_mousewheel(output_frame, output)
+	# Bind only on the specific widget to avoid conflicting with page scroll
+	widget.bind('<MouseWheel>', _on_mousewheel, add='+')
+_bind_mousewheel(output, output)
 
 root.mainloop()
 
