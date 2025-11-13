@@ -1,0 +1,495 @@
+player_id,player_name,opponent_id,opponent_name,opponent_country,total,wins,draws,losses,white_total,white_wins,white_draws,white_losses,black_total,black_wins,black_draws,black_losses,std_total,std_wins,std_draws,std_losses,rpd_total,rpd_wins,rpd_draws,rpd_losses,blz_total,blz_wins,blz_draws,blz_losses
+2016192,"Nakamura, Hikaru",13402960,"Abasov, Nijat",AZE,3,2,1,0,1,1,0,0,2,1,1,0,3,2,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14204118,"Abdusattorov, Nodirbek",UZB,14,7,4,3,6,3,2,1,8,4,2,2,1,0,1,0,6,1,2,3,7,6,2,0
+2016192,"Nakamura, Hikaru",13301918,"Abrahamyan, Tatev",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",900206,"Abramovic, Bosko",SRB,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",406252,"Adair, James R",ENG,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400041,"Adams, Michael",ENG,17,6,10,1,9,5,4,0,8,1,6,1,13,3,9,1,2,2,0,0,2,1,2,0
+2016192,"Nakamura, Hikaru",5018471,"Adhiban, B.",IND,5,4,1,0,2,2,0,0,3,2,1,0,5,4,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",100072,"Adla, Diego",ARG,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",10601619,"Adly, Ahmed",EGY,3,1,1,1,2,1,0,1,1,0,1,0,0,0,0,0,2,1,1,0,1,0,0,1
+2016192,"Nakamura, Hikaru",13708309,"Agmanov, Zhandos",KAZ,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13431552,"Ahmad, Khagan",AZE,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",2017288,"Aigner, Michael",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13300580,"Akobian, Varuzhan",USA,10,7,3,0,8,6,2,0,2,1,1,0,10,7,3,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12100030,"Al-Mudahka, Mohd",QAT,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4135539,"Alekseenko, Kirill",AUT,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",702293,"Almasi, Zoltan",HUN,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2260409,"Aloma Vidal, Robert",ESP,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2252627,"Alsina Leal, Daniel",ESP,2,2,0,0,2,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",10601457,"Amin, Bassem",EGY,6,2,2,2,4,2,1,1,2,0,1,1,0,0,0,0,3,1,1,1,3,1,0,2
+2016192,"Nakamura, Hikaru",5000017,"Anand, Viswanathan",IND,68,20,41,7,31,12,17,2,37,8,24,5,29,8,20,1,15,7,6,2,24,5,12,7
+2016192,"Nakamura, Hikaru",4158814,"Andreikin, Dmitry",FID,8,5,2,1,3,2,1,0,5,3,1,1,4,1,2,1,0,0,0,0,4,4,0,0
+2016192,"Nakamura, Hikaru",2012456,"Andrews, Todd",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13302000,"Andriasian, Zaven",ARM,4,4,0,0,2,2,0,0,2,2,0,0,0,0,0,0,2,2,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",4107012,"Antipov, Mikhail Al.",USA,3,1,2,0,1,0,1,0,2,1,1,0,2,0,2,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2285525,"Anton Guijarro, David",ESP,5,2,3,0,3,2,1,0,2,0,2,0,2,1,1,0,3,1,2,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13600168,"Arakhamia-Grant, Ketevan",SCO,2,1,0,1,2,1,0,1,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5072786,"Aravindh, Chithambaram VR.",IND,2,0,1,1,0,0,0,0,2,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",13300474,"Aronian, Levon",USA,105,30,52,23,49,19,26,4,56,11,26,19,42,6,22,14,17,7,7,3,28,11,14,3
+2016192,"Nakamura, Hikaru",24101605,"Artemiev, Vladislav",RUS,8,3,3,2,6,3,2,1,2,0,1,1,1,0,0,1,0,0,0,0,7,3,4,0
+2016192,"Nakamura, Hikaru",5084423,Aryan Chopra,IND,2,2,0,0,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2028255,"Averbukh, Alex",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000766,"Baba, Masahiro",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3700488,"Bachmann, Axel",PAR,4,1,3,0,3,1,2,0,1,0,1,0,4,1,3,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",605506,"Bacrot, Etienne",FRA,13,7,5,1,8,5,3,0,5,2,2,1,8,3,5,0,3,3,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2027046,"Bady, Glenn",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14102196,"Baklan, Vladimir",UKR,2,0,2,0,1,0,1,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2005069,"Balkum, Alexander",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",603767,"Bauer, Christian",FRA,2,2,0,0,2,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",6600247,"Baules Rodriguez, Jorge Luis",PAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3501728,"Becerra Rivero, Julio",USA,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14602377,"Beliavsky, Alexander G",SLO,3,1,1,1,2,0,1,1,1,1,0,0,3,1,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",696358,"Bellahcene, Bilel",ALG,4,2,2,0,2,1,1,0,2,1,1,0,2,0,2,0,2,2,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400343,"Bellin, Robert",ENG,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000091,"Benjamin, Joel",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24641120,"Berchtenbreiter, Maximilian",GER,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",12802212,"Bercys, Salvijus",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",401374,"Bibby, Simon",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",930733,"Blesic, Vaso",SRB,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24651516,"Bluebaum, Matthias",GER,4,1,3,0,2,1,1,0,2,0,2,0,1,0,1,0,0,0,0,0,3,1,2,0
+2016192,"Nakamura, Hikaru",2603608,"Bluvshtein, Mark",CAN,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4138716,"Bocharov, Dmitry",RUS,2,0,2,0,1,0,1,0,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4180887,"Bocharov, Ivan",RUS,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1017063,"Bok, Benjamin",NED,2,1,0,1,2,1,0,1,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13900048,"Bologan, Victor",MDA,4,3,0,1,2,1,0,1,2,2,0,0,2,2,0,0,1,1,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",14120828,"Bortnyk, Olexandr",UKR,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14507927,"Bosiocic, Marin",CRO,2,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2000334,"Brooks, Michael",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",813613,"Brunello, Sabino",ITA,2,1,1,0,1,1,0,0,1,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3503739,"Bruzon Batista, Lazaro",USA,5,2,3,0,3,2,1,0,2,0,2,0,3,1,2,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2031280,"Bryant, John Daniel",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8601445,"Bu, Xiangzhi",CHN,2,0,2,0,2,0,2,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",807338,"Cacco, Christian",ITA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8500436,"Campbell, Charles",NGR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5105382,"Capo Vidal, Uriel",MEX,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",834580,"Caprio, Guido",ITA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1503014,"Carlsen, Magnus",NOR,85,4,58,23,42,2,33,7,43,2,25,16,43,1,28,14,19,2,14,3,23,1,16,6
+2016192,"Nakamura, Hikaru",1705814,"Carlsson, Pontus",SWE,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2020009,"Caruana, Fabiano",USA,119,45,54,20,64,26,29,9,55,19,25,11,58,11,39,8,24,11,6,7,37,23,8,6
+2016192,"Nakamura, Hikaru",2807394,"Caspi, Israel",ISR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5004225,"Chanda, Sandipan",IND,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",25006711,"Chandra, Akshat",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2602504,"Charbonneau, Pascal",CAN,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2905540,"Cheparinov, Ivan",BUL,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1512668,"Christiansen, Johan-Sebastian",NOR,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2000059,"Christiansen, Larry",USA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",800015,"Codenotti, Marco",ITA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3801934,"Cori T., Deysi",PER,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2092360,"Costanza, Mitchell",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2024896,"Critelli, James",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1121219,"Czarnota, Pawel",POL,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",8608156,"Dai, Changren",CHN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1005030,"Dambacher, Martijn",NED,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",240990,"Dardha, Daniel",BEL,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",30929504,"Darr, Benjamin",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4000013,"David, Alberto",ITA,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1008641,"De Jong, Jan-Willem",NED,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1226380,"Deac, Bogdan-Daniel",ROU,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2900394,"Delchev, Aleksander",SRB,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4160258,"Demchenko, Anton",SLO,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8603677,"Ding, Liren",CHN,20,6,13,1,14,5,9,0,6,1,4,1,11,2,8,1,3,2,1,0,6,2,4,0
+2016192,"Nakamura, Hikaru",403024,"Dishman, Stephen",ENG,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14500124,"Dizdar, Goran",CRO,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3503240,"Dominguez Perez, Leinier",USA,33,11,19,3,15,7,7,1,18,4,12,2,15,3,12,0,7,2,4,1,11,6,2,3
+2016192,"Nakamura, Hikaru",24603295,"Donchenko, Alexander",GER,3,1,2,0,1,0,1,0,2,1,1,0,0,0,0,0,3,1,2,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4100107,"Dreev, Aleksey",RUS,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",5015197,"Dronavalli, Harika",IND,2,2,0,0,2,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24126055,"Dubov, Daniil",RUS,12,4,7,1,6,2,4,0,6,2,3,1,2,0,2,0,4,2,1,1,6,2,4,0
+2016192,"Nakamura, Hikaru",1170546,"Duda, Jan-Krzysztof",POL,45,24,15,6,25,14,10,1,20,10,5,5,3,2,1,0,22,10,8,4,20,12,10,0
+2016192,"Nakamura, Hikaru",2669838,"Dunahee, Titan",CAN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13402935,"Durarbayli, Vasif",AZE,2,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",633429,"Edouard, Romain",FRA,3,1,2,0,1,0,1,0,2,1,1,0,1,1,0,0,2,0,2,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14107201,"Efimenko, Zahar",UKR,3,1,2,0,0,0,0,0,3,1,2,0,2,1,1,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4500016,"Ehlvest, Jaan",USA,2,0,2,0,0,0,0,0,2,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14102951,"Eljanov, Pavel",UKR,6,2,3,1,3,2,1,0,3,0,2,1,5,2,2,1,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4900251,"Enkhbat, Tegshsuren",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4162714,"Epishin, Vladimir",RUS,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",44599790,"Erdogmus, Yagiz Kaan",TUR,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",719978,"Erdos, Viktor",HUN,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",35009192,Erigaisi Arjun,IND,6,0,3,3,3,0,1,2,3,0,2,1,3,0,3,0,1,0,0,1,2,0,0,2
+2016192,"Nakamura, Hikaru",24175439,"Esipenko, Andrey",RUS,6,3,3,0,3,2,1,0,3,1,2,0,5,2,3,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2018616,"Esserman, Marc",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24130737,"Fedoseev, Vladimir",SLO,8,4,3,1,5,3,2,0,3,1,1,1,2,0,1,1,2,1,1,0,4,3,0,1
+2016192,"Nakamura, Hikaru",2016230,"Felecan, Florin",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000261,"Finegold, Benjamin",USA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12573981,"Firouzja, Alireza",FRA,20,6,8,6,9,3,2,4,11,3,6,2,7,3,4,0,7,3,1,3,6,0,2,4
+2016192,"Nakamura, Hikaru",108049,"Flores, Diego",ARG,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2214334,"Fluvia Poyatos, Jordi",AND,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",723762,"Fodor, Tamas Jr.",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",605590,"Fontaine, Robert",SUI,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",468576,"Franklin, Samuel G A",ENG,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",608742,"Fressinet, Laurent",FRA,7,4,2,1,6,3,2,1,1,1,0,0,1,0,1,0,3,1,1,1,3,3,0,0
+2016192,"Nakamura, Hikaru",2017199,"Friedel, Joshua",USA,6,2,3,1,2,1,1,0,4,1,2,1,6,2,3,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4151976,"Frolyanov, Dmitry",FID,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",5002150,"Ganguly, Surya Shekhar",IND,3,3,0,0,2,2,0,0,1,1,0,0,0,0,0,0,1,1,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",14200937,"Gareyev, Timur",NON,3,1,2,0,3,1,2,0,0,0,0,0,2,1,1,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",13400630,"Gashimov, Vugar",AZE,4,0,3,1,3,0,2,1,1,0,1,0,4,0,3,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5041350,"Gauri, Shankar",IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1227190,"Gavrilescu, David",ROU,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2805677,"Gelfand, Boris",ISR,25,7,13,5,16,4,7,5,9,3,6,0,16,3,8,5,6,3,3,0,3,1,2,0
+2016192,"Nakamura, Hikaru",2026287,"Getz, Alec",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2007681,"Geyer, Gennadiy",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24116068,"Giri, Anish",NED,65,16,44,5,36,13,21,2,29,3,23,3,34,5,27,2,10,3,6,1,21,8,8,5
+2016192,"Nakamura, Hikaru",712779,"Gledura, Benjamin",HUN,3,2,1,0,1,1,0,0,2,1,1,0,3,2,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2602628,"Gluckie, Jamin",CAN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2804140,"Golod, Vitali",ISR,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14103222,"Goloshchapov, Alexander",UKR,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",7000065,"Gonda, Gentaro",JPN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3501841,"Gonzalez, Renier",USA,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5015693,Gopal G.N.,IND,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000278,"Goto, Susumu",JPN,2,2,0,0,0,0,0,0,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3800024,"Granda Zuniga, Julio E",PER,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1710400,"Grandelius, Nils",SWE,4,2,2,0,3,2,1,0,1,0,1,0,4,2,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4130804,"Grigoriants, Sergey",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4126025,"Grischuk, Alexander",RUS,48,13,25,10,23,9,10,4,25,4,15,6,23,3,15,5,7,3,3,1,18,7,6,5
+2016192,"Nakamura, Hikaru",2069679,"Guerra, Anthony",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",46616543,Gukesh D,IND,15,4,8,3,6,2,3,1,9,2,5,2,5,2,2,1,7,1,5,1,3,1,0,2
+2016192,"Nakamura, Hikaru",2024764,"Gulamali, Kazim",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4901045,"Gundavaa, Bayarsaikhan",MGL,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4167570,"Gunina, Valentina",FID,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5010608,"Gupta, Abhijeet",IND,2,2,0,0,2,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2044676,"Gurevich, Daniel",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000407,"Gurevich, Dmitry",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13401378,"Guseinov, Gadir",AZE,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4625498,"Gustafsson, Jan",GER,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",702218,"Gyimesi, Zoltan",HUN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4201809,"Halkias, Stelios",GRE,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2036401,"Hall, Bill",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000600,"Hamane, Kenichi",JPN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",9000011,"Hamdouchi, Hicham",MAR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1503707,"Hammer, Jon Ludvig",NOR,5,4,1,0,1,1,0,0,4,3,1,0,4,3,1,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2602458,"Han, Yiming",CAN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5007003,"Harikrishna, Pentala",IND,15,5,8,2,10,3,7,0,5,2,1,2,5,1,3,1,3,1,2,0,7,3,4,0
+2016192,"Nakamura, Hikaru",2028140,"Harper, Warren",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",600113,"Hauchard, Arnaud",FRA,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",412686,"Hawkins, Jonathan",ENG,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2607271,"Haynes, Nicolas",CAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",6300634,"Haznedaroglu, Kivanc",TUR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400084,"Hebden, Mark L",ENG,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5100011,"Hernandez Guerrero, Gilberto",MEX,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2022036,"Hess, Robert",USA,5,3,1,1,4,3,0,1,1,0,1,0,5,3,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2034387,"Holt, Conrad",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8602980,"Hou, Yifan",CHN,4,2,2,0,2,1,1,0,2,1,1,0,4,2,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",405094,"Houska, Jovanka",ENG,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13302507,"Hovhannisyan, Robert",ARM,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",410608,"Howell, David W L",ENG,6,1,5,0,3,1,2,0,3,0,3,0,6,1,5,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2030047,"Hua, David",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4102878,"Ibragimov, Ildar",RUS,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2200015,"Illescas Cordoba, Miguel",ESP,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4162722,"Inarkiev, Ernesto",RUS,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",911925,"Indjic, Aleksandar",SRB,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2009870,"Ippolito, Dean",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3901211,"Iturrizaga Bonelli, Eduardo",ESP,4,2,1,1,2,2,0,0,2,0,1,1,3,2,1,0,1,0,0,1,0,0,0,0
+2016192,"Nakamura, Hikaru",14100010,"Ivanchuk, Vasyl",UKR,15,3,7,5,6,1,3,2,9,2,4,3,13,2,6,5,0,0,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2000202,"Ivanov, Alexander",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2613158,"Ivanov, Mike",CAN,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000626,"Iwasaki, Yudai",JPN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13601733,"Izoria, Zviad",USA,2,0,1,1,1,0,1,0,1,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1444514,"Jacobsen, Mikkel Manosri",DEN,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",30901561,"Jacobson, Brandon",USA,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+2016192,"Nakamura, Hikaru",4122356,"Jakovenko, Dmitry",RUS,5,0,5,0,5,0,5,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1400282,"Jelling, Erik",DEN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13601520,"Jobava, Baadur",GEO,4,2,1,1,3,1,1,1,1,1,0,0,2,2,0,0,0,0,0,0,2,0,2,0
+2016192,"Nakamura, Hikaru",13702661,"Jumabayev, Rinat",KAZ,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14403803,"Kadric, Denis",MNE,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",2008564,"Kaidanov, Gregory",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000024,"Kamsky, Gata",FRA,16,4,11,1,6,2,4,0,10,2,7,1,12,2,9,1,1,1,0,0,3,1,2,0
+2016192,"Nakamura, Hikaru",14109603,"Karjakin, Sergey",RUS,58,11,38,9,27,6,18,3,31,5,20,6,29,3,22,4,9,0,9,0,20,8,8,4
+2016192,"Nakamura, Hikaru",4100026,"Karpov, Anatoly",RUS,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",25006479,Karthik Venkataraman,IND,4,1,3,0,2,0,2,0,2,1,1,0,2,0,2,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5074452,"Karthikeyan, Murali",IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",502081,"Karttunen, Mika",FIN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14200244,"Kasimdzhanov, Rustam",UZB,9,4,4,1,3,2,1,0,6,2,3,1,8,4,3,1,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4100018,"Kasparov, Garry",RUS,3,0,2,1,2,0,2,0,1,0,0,1,0,0,0,0,1,0,1,0,2,0,2,0
+2016192,"Nakamura, Hikaru",2007193,"Kelleher, William",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2606690,"Kenney, Jason",CAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1040634,"Kevlishvili, Robby",NED,2,1,1,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",12940690,"Keymer, Vincent",GER,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",13300512,"Khachiyan, Melikset",USA,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",55747175,"Khanbutaev, Artemii",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4111990,"Khanin, Semen",FID,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4659600,"Khenkin, Igor",GER,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2020041,"Kleiman, Jake",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1603809,"Knoll, Hermann",AUT,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14300141,"Kobese, Watu",RSA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2900130,"Kolev, Atanas",BUL,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14105730,"Korobov, Anton",UKR,5,2,1,2,3,1,1,1,2,1,0,1,2,0,1,1,0,0,0,0,3,2,0,1
+2016192,"Nakamura, Hikaru",4128125,"Kosteniuk, Alexandra",SUI,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5900212,"Kotronias, Vasilios",GRE,3,1,1,1,0,0,0,0,3,1,1,1,3,1,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13504398,"Kovalev, Vladislav",FID,3,2,1,0,2,1,1,0,1,1,0,0,1,1,0,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",114987,"Kovalyov, Anton",CAN,3,1,2,0,0,0,0,0,3,1,2,0,3,1,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2002035,"Kraai, Jesse",USA,3,1,1,1,2,1,1,0,1,0,0,1,3,1,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4101588,"Kramnik, Vladimir",RUS,43,12,24,7,23,7,13,3,20,5,11,4,20,5,11,4,10,2,6,2,13,5,8,0
+2016192,"Nakamura, Hikaru",1113100,"Krasenkow, Michal",POL,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14109182,"Kryvoruchko, Yuriy",UKR,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000164,"Kudrin, Sergey",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1007998,"L'Ami, Erwin",NED,2,1,1,0,1,0,1,0,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2290847,"Ladron De Guevara Pinto, Paolo",ESP,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",662399,"Lagarde, Maxime",FRA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5201330,"Laylo, Darwin",PHI,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13515110,"Lazavik, Denis",BLR,3,2,1,0,1,1,0,0,2,1,1,0,0,0,0,0,2,2,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",316385,"Laznicka, Viktor",CZE,3,0,3,0,1,0,1,0,2,0,2,0,3,0,3,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12401137,"Le, Quang Liem",VIE,11,2,6,3,4,1,3,0,7,1,3,3,4,1,3,0,2,0,1,1,5,1,2,2
+2016192,"Nakamura, Hikaru",12401153,"Le, Tuan Minh",VIE,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",1501496,"Leer-Helgesen, Bjarte",NOR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2101246,"Leitao, Rafael",BRA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",703303,"Leko, Peter",HUN,8,1,7,0,3,1,2,0,5,0,5,0,5,0,5,0,1,0,1,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2021285,"Lenderman, Aleksandr",USA,7,2,5,0,4,2,2,0,3,0,3,0,6,1,5,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1124226,"Leniart, Arkadiusz",POL,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14603853,"Lenic, Luka",SLO,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8604436,"Li, Chao b",CHN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2056437,"Liang, Awonder",USA,2,0,2,0,1,0,1,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",900010,"Ljubojevic, Ljubomir",SRB,4,2,1,1,2,1,0,1,2,1,1,0,4,2,1,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8603332,"Lu, Shanglei",CHN,3,2,1,0,2,2,0,0,1,0,1,0,0,0,0,0,1,1,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2025710,"Mabe, Chris",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1104306,"Macieja, Bartlomiej",POL,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12539929,"Maghsoodloo, Parham",IRI,6,4,1,1,3,3,0,0,3,1,1,1,1,0,1,0,2,2,0,0,3,2,0,1
+2016192,"Nakamura, Hikaru",13601717,"Maisuradze, Nino",FRA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12800031,"Malisauskas, Vidmantas",LTU,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13401653,"Mamedov, Rauf",AZE,4,2,2,0,1,0,1,0,3,2,1,0,2,0,2,0,0,0,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",13401319,"Mamedyarov, Shakhriyar",AZE,56,22,26,8,24,11,9,4,32,11,17,4,18,3,11,4,12,6,6,0,26,13,4,9
+2016192,"Nakamura, Hikaru",607274,"Marcelin, Cyril",FRA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2640856,"Marchand, Calix",CAN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",112275,"Mareco, Sandro",ARG,2,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",14402661,"Marjanovic, Dejan",BIH,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",921637,"Markus, Robert",SRB,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",409561,"Maroroa Jones, Gawain C B",ENG,4,1,3,0,1,1,0,0,3,0,3,0,2,0,2,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13306553,"Martirosyan, Haik M.",ARM,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4168003,"Matlakov, Maxim",RUS,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",30914523,"Matta, Nicholas",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",613762,"Maze, Sebastien",FRA,2,1,1,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13600966,"Mchedlishvili, Mikheil",GEO,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",404853,"McShane, Luke J",ENG,7,2,4,1,3,2,0,1,4,0,4,0,6,1,4,1,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4675789,"Meier, Georg",URU,4,2,2,0,3,2,1,0,1,0,1,0,3,2,1,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",2022613,"Melekhina, Alisa",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13302485,"Melkumyan, Hrant",ARM,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24522767,"Merario Alarcon, Andres",ESP,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2025906,"Meredith, Matthew",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4119215,"Mezentsev, Vladimir",RUS,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14907526,"Michalik, Peter",SVK,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",662445,"Migot, Tangi",FRA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2801914,"Mikhalevski, Victor",ISR,2,0,2,0,2,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1304364,"Milov, Vadim",SUI,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14102595,"Miroshnichenko, Evgenij",UKR,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",30920019,"Mishra, Abhimanyu",USA,7,3,3,1,3,1,1,1,4,2,2,0,2,0,2,0,0,0,0,0,5,3,0,2
+2016192,"Nakamura, Hikaru",1501453,"Moen, Andreas G.R.",NOR,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14102560,"Moiseenko, Alexander",UKR,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,1,0,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",10200444,"Mollah Abdullah, Al Rakib",BAN,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2021722,"Molner, Mackenzie",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",865834,"Moroni, Luca Jr",ITA,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4116992,"Morozevich, Alexander",RUS,14,7,5,2,5,3,0,2,9,4,5,0,6,2,2,2,2,2,0,0,6,3,0,3
+2016192,"Nakamura, Hikaru",642908,"Moussard, Jules",FRA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",310204,"Movsesian, Sergei",ARM,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2008742,"Mulyar, Michael",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",44155573,"Murzin, Volodar",FID,2,0,1,1,2,0,1,1,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0
+2016192,"Nakamura, Hikaru",409170,"Muter, Donny",ENG,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14114550,"Muzychuk, Mariya",UKR,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2809052,"Nabaty, Tamir",ISR,2,1,1,0,1,0,1,0,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4650891,"Naiditsch, Arkadij",BUL,6,2,3,1,4,2,2,0,2,0,1,1,5,1,3,1,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4118987,"Najer, Evgeniy",FID,3,1,2,0,1,0,1,0,2,1,1,0,2,1,1,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000251,"Nakamura, Ryuji",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3200698,"Nakauchi, Gene",AUS,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000634,"Nanjo, Ryosuke",JPN,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5058422,Narayanan S L,IND,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5018420,"Narayanan, Srinath",IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2201500,"Narciso Dublan, Marc",ESP,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2026961,"Naroditsky, Daniel",USA,2,1,1,0,1,0,1,0,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",605492,"Nataf, Igor-Alexandre",FRA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",309095,"Navara, David",CZE,9,8,1,0,5,5,0,0,4,3,1,0,6,5,1,0,1,1,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",5003512,"Neelotpal, Das",IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",720232,"Nemeth, Miklos",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4168119,"Nepomniachtchi, Ian",RUS,45,14,25,6,21,7,13,1,24,7,12,5,13,2,9,2,14,4,7,3,18,8,10,0
+2016192,"Nakamura, Hikaru",24198455,"Nesterov, Arseniy",FID,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1602675,"Neubauer, Martin",AUT,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12401110,"Nguyen, Ngoc Truong Son",VIE,2,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",8601160,"Ni, Hua",CHN,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1400355,"Nielsen, Peter Heine",DEN,4,1,3,0,2,1,1,0,2,0,2,0,4,1,3,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2093596,"Niemann, Hans Moke",USA,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+2016192,"Nakamura, Hikaru",25092340,Nihal Sarin,IND,5,3,1,1,3,3,0,0,2,0,1,1,0,0,0,0,2,1,1,0,3,2,0,1
+2016192,"Nakamura, Hikaru",2900424,"Ninov, Nikolai",BUL,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1202758,"Nisipeanu, Liviu-Dieter",ROU,5,1,3,1,3,1,2,0,2,0,1,1,5,1,3,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000740,"Noguchi, Koji",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14118084,"Nyzhnyk, Illya",UKR,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",13312022,"Ohanyan, Emin",ARM,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2300010,"Olafsson, Helgi",ISL,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2205521,"Oms Pallisse, Josep",ESP,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14101025,"Onischuk, Alexander",USA,9,1,6,2,4,1,1,2,5,0,5,0,9,1,6,2,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14114038,"Onyshchuk, Volodymyr",UKR,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",24125890,"Oparin, Grigoriy",USA,4,2,2,0,3,2,1,0,1,0,1,0,3,1,2,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",811416,"Ortega, Lexy",ITA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1500058,"Ostenstad, Berge",NOR,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4900987,"Otgonbat, Tsend-Ayush",MGL,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4641833,"Paehtz, Elisabeth",GER,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13602071,"Pantsulaia, Levan",GEO,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0
+2016192,"Nakamura, Hikaru",4201345,"Papaioannou, Ioannis",GRE,2,0,2,0,1,0,1,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4194985,"Paravyan, David",FID,2,1,1,0,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1204297,"Parligras, Mircea-Emilian",ROU,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2002833,"Parry, Matt",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2602806,"Patterson, Roger",CAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14600986,"Pavasovic, Dusko",SLO,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",900389,"Pavlovic, Milos",SRB,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1301837,"Pelletier, Yannick",SUI,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",105309,"Peralta, Fernando",ARG,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",117927,"Perez Ponsa, Federico",ARG,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",921629,"Perunovic, Milos",SRB,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",13301616,"Petrosian, Tigran L.",ARM,3,1,1,1,1,1,0,0,2,0,1,1,2,1,1,0,1,0,0,1,0,0,0,0
+2016192,"Nakamura, Hikaru",4101286,"Petrov, Nikita",MNE,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8700443,"Phiri, Richmond",ZAM,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",30986133,"Pikus, Matthew",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1130420,"Piorun, Kacper",POL,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2611651,"Plotkin, Mark",CAN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",700070,"Polgar, Judit",HUN,4,3,1,0,2,1,1,0,2,2,0,0,1,1,0,0,2,1,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4157800,"Ponkratov, Pavel",RUS,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",14103320,"Ponomariov, Ruslan",UKR,14,2,9,3,8,1,6,1,6,1,3,2,14,2,9,3,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2809060,"Popilski, Gil",ISR,2,0,2,0,1,0,1,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4169786,"Potapov, Pavel",RUS,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",4131061,"Potkin, Vladimir",RUS,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",25059530,Praggnanandhaa R,IND,15,6,6,3,8,4,3,1,7,2,3,2,6,2,4,0,3,1,0,2,6,3,2,1
+2016192,"Nakamura, Hikaru",25060783,"Pranav, V",IND,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24107581,"Predke, Alexandr",SRB,3,1,2,0,3,1,2,0,0,0,0,0,1,0,1,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2014254,"Pruess, David",USA,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5061245,"Puranik, Abhimanyu",IND,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",13602250,"Quparadze, Giga",GEO,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13400924,"Radjabov, Teimour",AZE,21,5,13,3,14,5,8,1,7,0,5,2,16,3,12,1,3,1,1,1,2,1,0,1
+2016192,"Nakamura, Hikaru",1610856,"Ragger, Markus",AUT,2,1,1,0,0,0,0,0,2,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5002109,Ramesh R B,IND,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",6500617,"Ramirez, Alejandro",NON,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",30954770,"Rao, Anjaneya Sripathy",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",937266,"Rapport, Jovana",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",738590,"Rapport, Richard",HUN,12,4,8,0,6,3,3,0,6,1,5,0,7,3,4,0,1,0,1,0,4,1,2,1
+2016192,"Nakamura, Hikaru",2811154,"Raznikov, Danny",ISR,2,0,2,0,1,0,1,0,1,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",11602988,"Reimanis, Ritvars",LAT,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4125029,"Riazantsev, Alexander",RUS,5,5,0,0,1,1,0,0,4,4,0,0,1,1,0,0,1,1,0,0,3,3,0,0
+2016192,"Nakamura, Hikaru",2033968,"Roberts, Peter S",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2023970,"Robson, Ray",USA,7,4,3,0,2,1,1,0,5,3,2,0,6,3,3,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2806851,"Rodshtein, Maxim",ISR,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2001985,"Rogers, Norman",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000172,"Rohde, Michael",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2804158,"Roiz, Michael",ISR,2,1,1,0,0,0,0,0,2,1,1,0,1,0,1,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2603659,"Roussel-Roozmon, Thomas",CAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",705713,"Ruck, Robert",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",35093487,"Sadhwani, Raunak",IND,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400173,"Sadler, Matthew D",ENG,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5201268,"Sadorra, Julio Catalino",PHI,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13700464,"Sadvakasov, Darmen",KAZ,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13402129,"Safarli, Eltaj",AZE,2,1,1,0,1,1,0,0,1,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",9301348,"Salem, A.R. Saleh",UAE,2,0,1,1,0,0,0,0,2,0,1,1,0,0,0,0,1,0,1,0,1,0,0,1
+2016192,"Nakamura, Hikaru",2200082,"San Segundo Carrillo, Pablo",ESP,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",6300545,"Sanal, Vahap",TUR,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2029103,"Santalla, Andres",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2025817,"Santarius, Erik",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",22291482,"Santos Ruiz, Miguel",ESP,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24133795,"Sarana, Alexey",SRB,4,2,1,1,3,2,1,0,1,0,0,1,1,1,0,0,0,0,0,0,3,1,2,0
+2016192,"Nakamura, Hikaru",13300881,"Sargissian, Gabriel",ARM,3,2,1,0,2,1,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",13306766,"Sargsyan, Shant",ARM,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5004985,"Sasikiran, Krishnan",IND,3,3,0,0,2,2,0,0,1,1,0,0,2,2,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1265725,"Sava, Robert-Gabriel",ROU,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4147332,"Savchenko, Boris",RUS,3,1,2,0,1,1,0,0,2,0,2,0,0,0,0,0,2,0,2,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4600169,"Schlosser, Philipp",GER,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2012545,"Schneider, Dmitry",USA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",39962296,"Schulingkamp, Mark L",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2001861,"Schuyler, James",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4500547,"Seeman, Tarvo",EST,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2000032,"Seirawan, Yasser",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5021596,"Sethuraman, S.P.",IND,2,1,1,0,1,0,1,0,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2040506,"Sevian, Samuel",USA,7,3,3,1,4,3,1,0,3,0,2,1,5,3,2,0,1,0,1,0,1,0,0,1
+2016192,"Nakamura, Hikaru",5200156,"Sevillano, Enrico",USA,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2008572,"Shabalov, Alexander",USA,7,4,1,2,4,2,0,2,3,2,1,0,7,4,1,2,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2004887,"Shankland, Sam",USA,16,6,9,1,10,3,6,1,6,3,3,0,7,1,6,0,5,2,2,1,4,3,2,0
+2016192,"Nakamura, Hikaru",4900340,"Sharavdorj, Dashzegve",MGL,2,1,1,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2400553,"Shaw, John",SCO,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13601270,"Shengelia, David",AUT,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4198603,"Shimanov, Aleksandr",RUS,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",7000391,"Shiomi, Ryo",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2209390,"Shirov, Alexei",ESP,7,4,2,1,2,2,0,0,5,2,2,1,5,3,2,0,2,1,0,1,0,0,0,0
+2016192,"Nakamura, Hikaru",627143,"Shoker, Samy",EGY,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400025,"Short, Nigel D",ENG,7,4,3,0,5,2,3,0,2,2,0,0,4,2,2,0,2,1,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",13500520,"Shulman, Yury",USA,5,0,4,1,2,0,1,1,3,0,3,0,5,0,4,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2014572,"Simms, Gary",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8700168,"Simutowe, Amon",ZAM,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14205483,"Sindarov, Javokhir",UZB,3,1,2,0,1,1,0,0,2,0,2,0,1,0,1,0,1,0,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",4189302,"Sjugirov, Sanan",HUN,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2032694,"Skidmore, Jennifer M",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",426547,"Slade, Theodore",ENG,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1007246,"Smeets, Jan",NED,2,1,1,0,1,1,0,0,1,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2801990,"Smirin, Ilia",ISR,2,1,1,0,0,0,0,0,2,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13764594,"Smirnov, Mark",KAZ,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5202213,"So, Wesley",USA,88,19,54,15,43,8,27,8,45,11,27,7,26,1,22,3,32,4,19,9,30,14,14,2
+2016192,"Nakamura, Hikaru",1107038,"Socko, Bartosz",POL,2,2,0,0,0,0,0,0,2,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",627089,"Sokolov, Andrei",FRA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14400030,"Sokolov, Ivan",NED,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",916811,"Solak, Dragan",TUR,2,1,1,0,1,1,0,0,1,0,1,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14300192,"Solomon, Kenneth Terence",RSA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400033,"Speelman, Jon S",ENG,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14502569,"Stevic, Hrvoje",CRO,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1119591,"Stopa, Jacek",POL,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2015315,"Stripunsky, Alexander",USA,4,3,1,0,0,0,0,0,4,3,1,0,4,3,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24107131,"Stukopin, Andrey",RUS,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13413937,"Suleymanli, Aydin",AZE,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12800112,"Sulskis, Sarunas",LTU,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",400980,"Summerscale, Aaron P",ENG,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5005370,"Sundararajan, Kidambi",IND,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2802007,"Sutovsky, Emil",ISR,2,1,1,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12923044,"Svane, Frederik",GER,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4657101,"Svane, Rasmus",GER,2,1,1,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4102142,"Svidler, Peter",FID,24,3,16,5,13,2,9,2,11,1,7,3,18,2,11,5,2,1,1,0,4,0,2,2
+2016192,"Nakamura, Hikaru",4114060,"Sychev, Klementy",FID,2,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",722901,"Szabo, Krisztian",HUN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",12521213,"Tabatabaei, M. Amin",IRI,2,1,1,0,0,0,0,0,2,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",30966590,"Tan, Ralph",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2059630,"Tang, Andrew",USA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1510045,"Tari, Aryan",NOR,4,4,0,0,3,3,0,0,1,1,0,0,1,1,0,0,0,0,0,0,3,3,0,0
+2016192,"Nakamura, Hikaru",2401878,"Tate, Alan",SCO,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4611500,"Teske, Henrik",GER,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1008013,"Tiviakov, Sergei",NED,3,2,1,0,2,2,0,0,1,0,1,0,3,2,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4147235,"Tomashevsky, Evgeny",RUS,9,1,7,1,3,1,2,0,6,0,5,1,6,0,6,0,1,0,0,1,2,1,0,1
+2016192,"Nakamura, Hikaru",2900084,"Topalov, Veselin",BUL,66,28,27,11,35,19,11,5,31,9,16,6,21,5,10,6,16,7,6,3,29,16,4,9
+2016192,"Nakamura, Hikaru",3202240,"Tredinnick, Malcolm Robert",AUS,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2047896,"Troff, Kayden",USA,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",6000185,"Tsang, Hon Ki",HKG,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4108566,"Tsydypov, Zhamsaran",RUS,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",623539,"Vachier-Lagrave, Maxime",FRA,79,19,47,13,44,13,25,6,35,6,22,7,22,5,17,0,24,5,16,3,33,9,14,10
+2016192,"Nakamura, Hikaru",13300016,"Vaganian, Rafael A",ARM,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",603252,"Vaisser, Anatoly",FRA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3405451,"Valdes Escobar, Alvaro",CHI,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+2016192,"Nakamura, Hikaru",2205530,"Vallejo Pons, Francisco",ESP,4,2,1,1,2,2,0,0,2,0,1,1,3,2,0,1,1,0,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1039784,"Van Foreest, Jorden",NED,3,1,2,0,2,0,2,0,1,1,0,0,1,0,1,0,1,0,1,0,1,1,0,0
+2016192,"Nakamura, Hikaru",1003992,"Van Haastert, Edwin",NED,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1000268,"Van Wely, Loek",NED,10,4,5,1,6,4,1,1,4,0,4,0,9,3,5,1,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",25050389,Vantika Agrawal,IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14901080,"Vavrak, Peter",SVK,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3503054,"Vazquez Igarza, Renier",CUB,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5029465,"Vidit, Santosh Gujrathi",IND,18,5,11,2,6,2,3,1,12,3,8,1,4,0,2,2,3,0,3,0,11,5,4,2
+2016192,"Nakamura, Hikaru",4418093,"Villamil, Nahum Jose",COL,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",5030692,Vishnu Prasanna. V,IND,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4152956,"Vitiugov, Nikita",ENG,7,5,2,0,2,2,0,0,5,3,2,0,2,2,0,0,2,1,1,0,3,2,0,1
+2016192,"Nakamura, Hikaru",14204223,"Vokhidov, Shamsiddin",UZB,2,0,2,0,1,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,2,0
+2016192,"Nakamura, Hikaru",14107090,"Volokitin, Andrei",UKR,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0
+2016192,"Nakamura, Hikaru",24650684,"Wagner, Dennis",GER,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8602883,"Wang, Hao",CHN,13,3,6,4,5,1,1,3,8,2,5,1,11,2,5,4,0,0,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",7000227,"Watanabe, Akira",JPN,2,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",8603405,"Wei, Yi",CHN,8,1,7,0,4,0,4,0,4,1,3,0,4,0,4,0,2,0,2,0,2,1,2,0
+2016192,"Nakamura, Hikaru",404454,"Williams, Simon K",ENG,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",1118358,"Wojtaszek, Radoslaw",POL,3,0,1,2,1,0,0,1,2,0,1,1,2,0,0,2,0,0,0,0,1,0,0,1
+2016192,"Nakamura, Hikaru",2047640,"Xiong, Jeffery",USA,11,7,4,0,7,3,4,0,4,4,0,0,5,2,3,0,2,1,1,0,4,4,0,0
+2016192,"Nakamura, Hikaru",14203987,"Yakubboev, Nodirbek",UZB,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",7000936,"Yamada, Kohei",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7000324,"Yamagishi, Tomohiko",JPN,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2020165,"Yanayt, Eugene",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2005492,"Yermolinsky, Alex",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2090732,"Yip, Carissa",USA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",8603820,"Yu, Yangyi",CHN,11,7,4,0,5,3,2,0,6,4,2,0,2,1,1,0,4,1,3,0,5,5,0,0
+2016192,"Nakamura, Hikaru",2802341,"Yudasin, Leonid",ISR,1,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4159659,"Yudin, Sergei",RUS,2,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,0,1
+2016192,"Nakamura, Hikaru",2059649,"Zagar, Dane",USA,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2022966,"Zenyuk, Iryna",USA,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",2637677,"Zhang, Michelle",CAN,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",3202534,"Zhao, Zong-Yuan",AUS,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14116804,"Zherebukh, Yaroslav",USA,2,1,1,0,1,0,1,0,1,1,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13502247,"Zhigalko, Andrey",BLR,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",13502956,"Zhigalko, Sergei",BLR,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",7200595,"Ziska, Helgi Dam",FAI,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",14109409,"Zubov, Alexander",UKR,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2016192,"Nakamura, Hikaru",2602288,"Zugic, Igor",CAN,2,1,0,1,0,0,0,0,2,1,0,1,2,1,0,1,0,0,0,0,0,0,0,0
+2016192,"Nakamura, Hikaru",4651324,"Zumsande, Martin",GER,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
