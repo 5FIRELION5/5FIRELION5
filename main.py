@@ -641,6 +641,12 @@ def plot_timeseries(df):
 root = ThemedTk(theme="arc")  # Try 'arc', 'plastik', 'azure', etc.
 root.title("FIDE Player Lookup")
 
+# Start maximized on Windows so everything is visible at launch
+try:
+	root.state('zoomed')
+except Exception:
+	pass
+
 # Ensure the window fits within the Windows work area (not hidden behind taskbar)
 def _get_work_area():
 	try:
